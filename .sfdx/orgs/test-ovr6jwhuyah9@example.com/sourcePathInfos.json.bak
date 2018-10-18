@@ -32,14 +32,14 @@
     [
         "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1539732077745,
+            "changeTime": 1539730170774,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1539729669065,
-            "changeTime": 1539729669065,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "state": "u"
         }
     ],
     [
@@ -47,14 +47,13 @@
         {
             "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1539197702032,
-            "changeTime": 1539197702032,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 160,
+            "modifiedTime": 1539730341853,
+            "changeTime": 1539730341853,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -62,14 +61,13 @@
         {
             "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation",
             "isDirectory": true,
-            "size": 256,
-            "modifiedTime": 1539197931957,
-            "changeTime": 1539197931957,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "size": 320,
+            "modifiedTime": 1539199388375,
+            "changeTime": 1539199388375,
+            "contentHash": "b500e0cc0fe528e3c3beb5f312ce13c9ab3dbcb9",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -195,7 +193,7 @@
             "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
             "size": 192,
-            "modifiedTime": 1539198348356,
+            "modifiedTime": 1539731694611,
             "changeTime": 1539198348356,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
             "isMetadataFile": false,
@@ -218,40 +216,521 @@
     [
         "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
-            "modifiedTime": 1539729736062,
+            "modifiedTime": 1539732052259,
             "changeTime": 1539729736062,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 293,
             "modifiedTime": 1539729735952,
             "changeTime": 1539729735953,
-            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e"
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1539729669079,
             "changeTime": 1539729669079,
-            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6"
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1539731315401,
+            "changeTime": 1539729924957,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1539729808394,
+            "changeTime": 1539729808394,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 161,
+            "modifiedTime": 1539731315293,
+            "changeTime": 1539731315294,
+            "contentHash": "c5368152e88d964893d0e1a0e8d77150ac2e7b86",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1539729808391,
+            "changeTime": 1539729808391,
+            "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 114,
+            "modifiedTime": 1539731302482,
+            "changeTime": 1539729924848,
+            "contentHash": "2328b9d86912304ce18f810ad4c8ff6f7a2f0a1a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1539729808394,
+            "changeTime": 1539729808394,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1539729808393,
+            "changeTime": 1539729808393,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1539729808392,
+            "changeTime": 1539729808392,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1539729808392,
+            "changeTime": 1539729808392,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1539729808393,
+            "changeTime": 1539729808393,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1539730170766,
+            "changeTime": 1539730170766,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18084,
+            "modifiedTime": 1539730170779,
+            "changeTime": 1539730170779,
+            "contentHash": "ccab3d59ff5aa5ac0a953e2298661c19de2993c5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4565,
+            "modifiedTime": 1539730170781,
+            "changeTime": 1539730170781,
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4901,
+            "modifiedTime": 1539730170784,
+            "changeTime": 1539730170784,
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4561,
+            "modifiedTime": 1539730170787,
+            "changeTime": 1539730170787,
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1539730170766,
+            "changeTime": 1539730170766,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1539730170787,
+            "changeTime": 1539730170787,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1539731580813,
+            "changeTime": 1539730453048,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1539732625758,
+            "changeTime": 1539730287546,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1539730341857,
+            "changeTime": 1539730341857,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1539730688606,
+            "changeTime": 1539730388225,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1539730341854,
+            "changeTime": 1539730341854,
+            "contentHash": "ef58eb6c1b77fc51d93ac353bbade8d5567729b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "size": 112,
+            "modifiedTime": 1539730452941,
+            "changeTime": 1539730452942,
+            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1539730341857,
+            "changeTime": 1539730341857,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1539730341856,
+            "changeTime": 1539730341856,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1539731580708,
+            "changeTime": 1539731580709,
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1539730341855,
+            "changeTime": 1539730341855,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1539730341856,
+            "changeTime": 1539730341856,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1539730216596,
+            "changeTime": 1539730216596,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 121,
+            "modifiedTime": 1539732375021,
+            "changeTime": 1539732375022,
+            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1539730216593,
+            "changeTime": 1539730216593,
+            "contentHash": "087db03e2f9069783a4fdcfb8cba3ebe0379cfd1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 163,
+            "modifiedTime": 1539732625653,
+            "changeTime": 1539732625654,
+            "contentHash": "772304e91f8c44e5f538c06ae0ddf95dddff1860"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1539730216596,
+            "changeTime": 1539730216596,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1539730216596,
+            "changeTime": 1539730216596,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1539730216594,
+            "changeTime": 1539730216594,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1539730216594,
+            "changeTime": 1539730216594,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "sourcePath": "/Users/hkaraouni/Desktop/edmod_salesforce/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1539730216595,
+            "changeTime": 1539730216595,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
